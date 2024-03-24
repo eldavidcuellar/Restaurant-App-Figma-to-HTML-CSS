@@ -1,0 +1,188 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 100%;
+}.inicio-de-sesin-UrX {
+  box-sizing: border-box;
+  padding: 10rem 6.55rem 8rem 106.6rem;
+  overflow: hidden;
+  position: absolute;
+  background-size: cover;
+  background-image: url('../assets/inicio-de-sesin-bg.png');
+}
+.inicio-de-sesin-UrX .login--zps {
+  width: 100%;
+  height: 53.7206rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.inicio-de-sesin-UrX .login--zps .bienvenido-a-ala-burger-wk7 {
+  margin: 0rem 2.35rem 1.5rem 0rem;
+  font-size: 3.2rem;
+  font-weight: 800;
+  line-height: 1.265;
+  letter-spacing: 0.32rem;
+  color: #7b422f;
+  font-family: Overpass, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.inicio-de-sesin-UrX .login--zps .no-tienes-una-cuenta-registrate-EjD {
+  margin: 0rem 6.75rem 2.414rem 0rem;
+  cursor: pointer;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.3618164062;
+  letter-spacing: 0.24rem;
+  color: #444b59;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+  flex-shrink: 0;
+}
+.inicio-de-sesin-UrX .login--zps .no-tienes-una-cuenta-registrate-EjD .no-tienes-una-cuenta-registrate-EjD-sub-0 {
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.3625;
+  letter-spacing: 0.24rem;
+  color: #444b59;
+  font-family: Nunito, 'Source Sans Pro';
+}
+.inicio-de-sesin-UrX .login--zps .no-tienes-una-cuenta-registrate-EjD .no-tienes-una-cuenta-registrate-EjD-sub-1 {
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.3625;
+  letter-spacing: 0.24rem;
+  color: #444b59;
+  font-family: Nunito, 'Source Sans Pro';
+}
+.inicio-de-sesin-UrX .login--zps .no-tienes-una-cuenta-registrate-EjD .no-tienes-una-cuenta-registrate-EjD-sub-2 {
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.3625;
+  letter-spacing: 0.24rem;
+  color: #714e3d;
+  font-family: Nunito, 'Source Sans Pro';
+}
+.inicio-de-sesin-UrX .login--zps .input-field-HDd {
+  margin: 0rem 0rem 3.786rem 0.45rem;
+  width: 50.4rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.inicio-de-sesin-UrX .login--zps .input-field-HDd .username-CrP {
+  margin-bottom: 3.6rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.inicio-de-sesin-UrX .login--zps .input-field-HDd .username-CrP .correo-de-usuario-MDV {
+  margin-bottom: 1.5rem;
+  font-size: 2.8rem;
+  font-weight: 700;
+  line-height: 1.3625;
+  letter-spacing: 0.28rem;
+  color: #714e3d;
+  font-family: Nunito, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.inicio-de-sesin-UrX .login--zps .input-field-HDd .username-CrP .frame-4-fEB {
+  box-sizing: border-box;
+  padding: 2.4rem 3.2rem;
+  width: 100%;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.3625;
+  letter-spacing: 0.24rem;
+  color: #714e3d;
+  font-family: Nunito, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.2rem #714e3d;
+  background-color: #ffffff;
+  border-radius: 8rem;
+  flex-shrink: 0;
+}
+.inicio-de-sesin-UrX .login--zps .input-field-HDd .password-87m {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.inicio-de-sesin-UrX .login--zps .input-field-HDd .password-87m .contrasea-UxK {
+  margin-bottom: 1.5rem;
+  font-size: 2.8rem;
+  font-weight: 700;
+  line-height: 1.3625;
+  letter-spacing: 0.28rem;
+  color: #714e3d;
+  font-family: Nunito, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.inicio-de-sesin-UrX .login--zps .input-field-HDd .password-87m .frame-4-c2w {
+  box-sizing: border-box;
+  padding: 2.4rem 3.2rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  border: solid 0.2rem #714e3d;
+  background-color: #ffffff;
+  border-radius: 8rem;
+  flex-shrink: 0;
+}
+.inicio-de-sesin-UrX .login--zps .input-field-HDd .password-87m .frame-4-c2w .frame-7-YhH {
+  margin-right: 27.6rem;
+  width: 13.2rem;
+  height: 1.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.inicio-de-sesin-UrX .login--zps .input-field-HDd .password-87m .frame-4-c2w .icon-font-awesome-free-solid-e-eye-slash-tWF {
+  width: 3.2rem;
+  height: 3.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.inicio-de-sesin-UrX .login--zps .sign-in-yXh {
+  margin: 0rem 8.377rem 0rem 9.1rem;
+  width: calc(100% - 17.4767rem);
+  height: 8.1206rem;
+  cursor: pointer;
+  overflow: hidden;
+  position: relative;
+  font-size: 2.8rem;
+  font-weight: 800;
+  line-height: 1.3625;
+  letter-spacing: 0.28rem;
+  color: #ffffff;
+  font-family: Nunito, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: inset 0.4rem 0.8rem 1.2rem rgba(78, 99, 141, 0.0599999987);
+  backdrop-filter: blur(0.6rem);
+  background-color: #714e3d;
+  border-radius: 8rem;
+  flex-shrink: 0;
+}

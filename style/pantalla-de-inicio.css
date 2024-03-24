@@ -1,0 +1,230 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 100%;
+}.pantalla-de-inicio-zJX {
+  width: 100%;
+  height: 100%;
+  position: relative;
+  overflow: hidden;
+  background-size: cover;
+  background-position: 100%;
+  background-image: url('../assets/pantalla-de-inicio-bg.png');
+}
+.pantalla-de-inicio-zJX .rectangle-23-6cT {
+  width: 28.7rem;
+  height: 103.4rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: rgba(90, 56, 40, 0.9200000167);
+}
+.pantalla-de-inicio-zJX .group-4-RPq {
+  box-sizing: border-box;
+  padding: 0.225rem 4.1rem 0.225rem 0.225rem;
+  width: 22.8rem;
+  height: 5.4rem;
+  cursor: pointer;
+  position: absolute;
+  left: 2.1rem;
+  top: 40.9rem;
+  display: flex;
+  align-items: center;
+}
+.pantalla-de-inicio-zJX .group-4-RPq .frame-uK1 {
+  margin-right: 3.825rem;
+  width: 4.95rem;
+  height: 4.95rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.pantalla-de-inicio-zJX .group-4-RPq .historial-eGb {
+  margin-top: 0.8rem;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.pantalla-de-inicio-zJX .icn-15-xo5 {
+  width: 3.5rem;
+  height: 3.3rem;
+  position: absolute;
+  left: 3.5rem;
+  top: 87.8rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.pantalla-de-inicio-zJX .rectangle-24-VHD {
+  width: 25.3rem;
+  height: 5.3rem;
+  position: absolute;
+  left: 2rem;
+  top: 5.7rem;
+  background-color: #d9d9d9;
+  border-radius: 1rem;
+}
+.pantalla-de-inicio-zJX .icn-07-1WT {
+  width: 2.6rem;
+  height: 2.6rem;
+  position: absolute;
+  left: 4.4rem;
+  top: 7rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.pantalla-de-inicio-zJX .cuellardcrgmailcom-9Mm {
+  width: 11.5rem;
+  height: 1.4rem;
+  position: absolute;
+  left: 8.9rem;
+  top: 8.7rem;
+  font-size: 1.1rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.pantalla-de-inicio-zJX .david-cuellar-rueda-rGB {
+  width: 15.3rem;
+  height: 2rem;
+  position: absolute;
+  left: 8.9rem;
+  top: 6.8rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.pantalla-de-inicio-zJX .line-79-xq1 {
+  width: 28rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 0.7rem;
+  top: 83.9rem;
+  background-color: #ffffff;
+}
+.pantalla-de-inicio-zJX .configuracin-hXh {
+  width: 16.5rem;
+  height: 3rem;
+  position: absolute;
+  left: 9rem;
+  top: 87.8rem;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.pantalla-de-inicio-zJX .group-2-o4w {
+  box-sizing: border-box;
+  padding: 0.517rem 1.3rem 0.517rem 0.5rem;
+  width: 24.4rem;
+  height: 6.2rem;
+  cursor: pointer;
+  position: absolute;
+  left: 1.4rem;
+  top: 17.1rem;
+  display: flex;
+  align-items: center;
+}
+.pantalla-de-inicio-zJX .group-2-o4w .frame-J1h {
+  margin-right: 1.7rem;
+  width: 5rem;
+  height: 5.1667rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.pantalla-de-inicio-zJX .group-2-o4w .asignar-mesa-pVq {
+  margin-top: 0.4rem;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.pantalla-de-inicio-zJX .group-5-k8b {
+  box-sizing: border-box;
+  padding: 0.219rem 0rem 0rem 0.462rem;
+  width: 21.6rem;
+  height: 3.6rem;
+  position: absolute;
+  left: 3.3rem;
+  top: 93.6rem;
+  display: flex;
+  align-items: flex-end;
+}
+.pantalla-de-inicio-zJX .group-5-k8b .outlined-FLF {
+  margin: 0rem 2.463rem 0.319rem 0rem;
+  width: 2.7758rem;
+  height: 3.0625rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.pantalla-de-inicio-zJX .group-5-k8b .cerrar-sesion-n5H {
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.pantalla-de-inicio-zJX .group-3-7NT {
+  box-sizing: border-box;
+  padding: 0.7rem 1.6rem 0rem 0rem;
+  width: 21.5rem;
+  height: 4.1rem;
+  cursor: pointer;
+  position: absolute;
+  left: 2.6rem;
+  top: 30.1rem;
+  display: flex;
+  align-items: flex-end;
+}
+.pantalla-de-inicio-zJX .group-3-7NT .frame-DwH {
+  margin: 0rem 3.2rem 0.056rem 0rem;
+  width: 4.5rem;
+  height: 3.3444rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.pantalla-de-inicio-zJX .group-3-7NT .ver-mesas-x8B {
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.pantalla-de-inicio-zJX .pantalla-de-inicio-zJX-bg {
+  width: 144rem;
+  height: 102.4rem;
+  position: relative;
+  background-image: url('REPLACE_IMAGE:2c9bfd1d0bd82574f19b7653f6aa7131e2e2538b');
+}

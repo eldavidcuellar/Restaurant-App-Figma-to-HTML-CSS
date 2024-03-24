@@ -1,0 +1,196 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+
+}.asignacion-de-mesas-V4o {
+  width: 194rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: left;
+  background-color: #ffffff;
+}
+.asignacion-de-mesas-V4o .auto-group-8aur-Cju {
+  
+  width: 9.2rem;
+  height: 105.6rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.asignacion-de-mesas-V4o .auto-group-ankb-KpX {
+  margin-bottom: 5.2814rem;
+  width: 108.1692rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+  padding-left: 43rem;
+}
+.asignacion-de-mesas-V4o .auto-group-ankb-KpX .auto-group-nj7h-TA3 {
+  box-sizing: border-box;
+  padding: 0rem 26.465rem 5.538rem 22.104rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.asignacion-de-mesas-V4o .auto-group-ankb-KpX .auto-group-nj7h-TA3 .auto-group-3svz-yPH {
+  margin: 0rem 4.1rem 4.325rem 4.991rem;
+  width: calc(100% - 9.0915rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.asignacion-de-mesas-V4o .auto-group-ankb-KpX .auto-group-nj7h-TA3 .auto-group-3svz-yPH .qp7ve01-1-JAf {
+  margin-right: 5.8727rem;
+  width: 10.9358rem;
+  height: 10.5122rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.asignacion-de-mesas-V4o .auto-group-ankb-KpX .auto-group-nj7h-TA3 .auto-group-3svz-yPH .ala-burger-ala-pizza-EKD {
+  margin-top: 0.5624rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.2000000477;
+  color: #714e3d;
+  font-family: IM FELL DW Pica SC, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.asignacion-de-mesas-V4o .auto-group-ankb-KpX .auto-group-nj7h-TA3 .ingresa-la-cantidad-de-comensales-vhq {
+  margin-bottom: 3.35rem;
+  display: flex;
+  align-items: baseline;
+  justify-content: center;
+  font-size: 3.6rem;
+  font-weight: 400;
+  line-height: 1.2000000212;
+  color: #866248;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.asignacion-de-mesas-V4o .auto-group-ankb-KpX .auto-group-nj7h-TA3 .ingresa-la-cantidad-de-comensales-vhq .ingresa-la-cantidad-de-comensales-vhq-sub-0 {
+  font-size: 3.6rem;
+  font-weight: 400;
+  line-height: 1.2000000212;
+  color: #866248;
+  font-family: Inter, 'Source Sans Pro';
+}
+.asignacion-de-mesas-V4o .auto-group-ankb-KpX .auto-group-nj7h-TA3 .ingresa-la-cantidad-de-comensales-vhq .ingresa-la-cantidad-de-comensales-vhq-sub-1 {
+  font-size: 3.6rem;
+  font-weight: 600;
+  line-height: 1.2000000212;
+  color: #866248;
+  font-family: Inter, 'Source Sans Pro';
+}
+.asignacion-de-mesas-V4o .auto-group-ankb-KpX .auto-group-nj7h-TA3 .auto-group-xn8k-Mq5 {
+  margin: 0rem 17.612rem 5.3rem 17.45rem;
+  width: calc(100% - 35.0618rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.asignacion-de-mesas-V4o .auto-group-ankb-KpX .auto-group-nj7h-TA3 .auto-group-xn8k-Mq5 .rectangle-3-t4K {
+  margin-right: 4.9617rem;
+  width: 10.9rem;
+  height: 10.7rem;
+  border: solid 0.2rem #c1bdbd;
+  box-sizing: border-box;
+  background-color: #f2f2f2;
+  border-radius: 1.5rem;
+  flex-shrink: 0;
+}
+.asignacion-de-mesas-V4o .auto-group-ankb-KpX .auto-group-nj7h-TA3 .auto-group-xn8k-Mq5 .x32-zNF {
+  margin-bottom: 0.8rem;
+  width: 8.6765rem;
+  height: 5.307rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.asignacion-de-mesas-V4o .auto-group-ankb-KpX .auto-group-nj7h-TA3 .mesas-disponibles-iZ9 {
+  margin-left: 2.9rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 4rem;
+  font-weight: 800;
+  line-height: 1.2;
+  color: #513932;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.asignacion-de-mesas-V4o .auto-group-ankb-KpX .auto-group-etmz-pMH {
+  margin-bottom: 10.0285rem;
+  width: 100%;
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.asignacion-de-mesas-V4o .auto-group-ankb-KpX .auto-group-etmz-pMH .hqtrp501-2-YYB {
+  margin: 0rem 11.285rem 0.7rem 0rem;
+  width: 25.9692rem;
+  height: 13.1776rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.asignacion-de-mesas-V4o .auto-group-ankb-KpX .auto-group-etmz-pMH .group-4WX {
+  margin: 0rem 7.826rem 0.655rem 0rem;
+  width: 37.12rem;
+  height: 10.2605rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.asignacion-de-mesas-V4o .auto-group-ankb-KpX .auto-group-etmz-pMH .hqtrp501-1-z9H {
+  width: 25.9692rem;
+  height: 13.1776rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.asignacion-de-mesas-V4o .auto-group-ankb-KpX .auto-group-hd8w-jMm {
+  margin: 0rem 17.503rem 0rem 17.922rem;
+  width: calc(100% - 35.425rem);
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.asignacion-de-mesas-V4o .auto-group-ankb-KpX .auto-group-hd8w-jMm .ptpbtf01-1-2-fWK {
+  margin-right: 23.37rem;
+  width: 30.432rem;
+  height: 16.6614rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.asignacion-de-mesas-V4o .auto-group-ankb-KpX .auto-group-hd8w-jMm .nnxkxd01-1-QD1 {
+  margin-bottom: 0.5869rem;
+  width: 18.9422rem;
+  height: 14.1782rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
